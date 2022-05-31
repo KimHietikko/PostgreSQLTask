@@ -1,3 +1,5 @@
+# PostgreSQL database task
+
 This practical work is based on two articles:
 
 Errors and Complications in SQL Query Formulation
